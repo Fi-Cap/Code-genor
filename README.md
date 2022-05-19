@@ -1,18 +1,28 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
+this is a code-genor for java,you can use it to use less time to make window.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
-
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+  - `generator`: the folder has file about generator
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+    - `Addons` : the folder to put generator Addons and base class `Addon`and `AddonsInfo`
+    
 
-## Dependency Management
+## about Addons
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> You can create addons with java and send me.
+
+> And you also pubilc in github
+
+> And if you need public your addons,you need let me check it,and you must Write the following comments
+> 
+/* Addons for the Genor\
+\* @name \
+\* @author \
+\* @version \
+\* @date \
+\*\
+\*/
+and more info
